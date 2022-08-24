@@ -12,7 +12,7 @@ Usage:
 -- Run the unification for a single season
 CALL spBeltShares(20212022);
 
--- See the results of the beltShares table.
+-- See the results of the beltShares table
 SELECT * FROM beltShares;
 
 -- List of teams that still have at least one share
